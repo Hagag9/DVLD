@@ -1,0 +1,9 @@
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Ahmed Hagag\Desktop\DVLD Project\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
